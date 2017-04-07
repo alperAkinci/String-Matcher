@@ -17,13 +17,5 @@ Time for Naive-String-Matching: 3.51947020998341 s.
 Time for Finite-Automata-Matching: 0.257002233003732 s.
 
 ```
-<<<<<<< HEAD
-=======
-Uyuyuyuyuuu
-Master Change
-Go home
+SourceTree is awesome !
 
-
->>>>>>> master
-
-Conflict solved! 
